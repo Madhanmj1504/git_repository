@@ -1,0 +1,2 @@
+this is requirements file 
+the port 22 and 80 has to be open for web and app
